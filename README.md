@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm Yessine, a student at Sup Galilée, an engineering school in computer science at Paris.
 
-<!--
-**iiYessine/iiYessine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on multiple projects in order to refine my skills in AI.
 
-Here are some ideas to get you started:
+Here on my profile you can find all the projects that I've worked on in detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts :		
+
+  	I have many hobbies : tennis, ping pong, gym and chess.
+	
+  	I'm a Math tutor for high school students.
+	
+ 	  I like to watch anime and tv shows.
