@@ -10,4 +10,4 @@ Fun Facts :
 	
   	I'm a Math tutor for high school students.
 	
- 	  I like to watch anime and tv shows.
+ 	I like to watch anime and tv shows.
